@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "username": "bose",
+      "email": "2211cs030165@mallareddyuniversity.ac.in",
+      "mobileNumber": "7893259524",
+      "password": "1234",
+      "role": "rider",
+      "id": "1"
+    },
+    {
+      "id": "c2ea",
+      "username": "chandra",
+      "email": "2211cs030109@mallareddyuniversity.ac.in",
+      "mobileNumber": "9059696190",
+      "password": "Chandrabose@1245",
+      "confirmPassword": "Chandrabose@1245",
+      "role": "rider"
+    }
+  ]
+}
