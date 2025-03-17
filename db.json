@@ -2,6 +2,51 @@
   "users": [
     {
       "id": 1
+    },
+    {
+      "username": "user",
+      "firstName": "vijay",
+      "middleName": "",
+      "lastName": "kumar",
+      "email": "user1@gmail.com",
+      "mobileNumber": "5767554434",
+      "password": "1234qwer",
+      "confirmPassword": "1234qwer",
+      "role": "rider",
+      "frontFile": null,
+      "backFile": null,
+      "numberPlate": "",
+      "id": 2
+    },
+    {
+      "username": "bose",
+      "firstName": "chandra",
+      "middleName": "",
+      "lastName": "bose",
+      "email": "abc@gmail.com",
+      "mobileNumber": "6756754644",
+      "password": "12345678",
+      "confirmPassword": "12345678",
+      "role": "driver",
+      "frontFile": null,
+      "backFile": null,
+      "numberPlate": "",
+      "id": 3
+    },
+    {
+      "username": "appu",
+      "firstName": "asu",
+      "middleName": "",
+      "lastName": "tosh",
+      "email": "xyz@gmail.com",
+      "mobileNumber": "8767567465",
+      "password": "1234567890",
+      "confirmPassword": "1234567890",
+      "role": "rider",
+      "frontFile": null,
+      "backFile": null,
+      "numberPlate": "",
+      "id": 4
     }
   ]
 }
