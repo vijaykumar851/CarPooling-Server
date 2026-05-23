@@ -1,11 +1,12 @@
 {
-  "name": "json-server",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "start": "json-server --watch db.json --port $PORT --host 0.0.0.0"
-  },
-  "dependencies": {
-    "json-server": "file:"
-  }
+	"name": "transport-management-backend",
+	"version": "1.0.0",
+	"private": true,
+	"main": "index.js",
+	"scripts": {
+		"start": "json-server --watch db.json --port 5000 --host 0.0.0.0"
+	},
+	"dependencies": {
+		"json-server": "^0.17.4"
+	}
 }
